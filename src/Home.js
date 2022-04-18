@@ -1,7 +1,5 @@
 import React from "react";
 
-import ResponsiveAppBar from "./ResponsiveAppBar";
-import StickyFooter from "./StickyFooter";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 
